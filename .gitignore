@@ -1,12 +1,12 @@
 #node dependancies
-http/node_modules
+/http/node_modules
 
-https/node_modules
+/https/node_modules
 
-http/.env
+/http/.env
 
-https/.env
+/https/.env
 
-https/cert
+/https/cert
 
 
